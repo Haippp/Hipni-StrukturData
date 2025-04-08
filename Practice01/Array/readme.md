@@ -1,0 +1,3 @@
+![Learn](https://img.shields.io/badge/Learning-8A2BE2)
+# Pendahuluan
+Array adalah struktur data yang digunakan untuk menyimpan sekumpulan data dengan tipe yang sama. Belajar array cukup penting, apalagi kalau bidang pemerograman kita berhubungan dengan data. Dengan array kita dapat mengolah banyak data sekaligus, mengakses data jadi lebih gampang, dan sebagainya. Maka dari itu pada praktek kali ini kita akan belajar tentang array.
